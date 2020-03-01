@@ -13,3 +13,6 @@ Repo for sharing my presentations on NLP and Artificial General Inelligence
 
 ### OpenTalks.ai 2020
 [Обзор NLP-инструментов для разработчиков](https://github.com/TatianaShavrina/presentations/blob/master/opentalks.ai/shavrina_opentalks.pdf)
+
+### DeepPavlov 2 years
+[Для науки и не только: как мы используем библиотеку DeepPavlov каждый день](https://github.com/TatianaShavrina/presentations/blob/master/deeppavlov2years/deeppavlov_shavrina.pdf)
