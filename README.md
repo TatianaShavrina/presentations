@@ -16,3 +16,9 @@ Repo for sharing my presentations on NLP and Artificial General Inelligence
 
 ### DeepPavlov 2 years
 [Для науки и не только: как мы используем библиотеку DeepPavlov каждый день](https://github.com/TatianaShavrina/presentations/blob/master/deeppavlov2years/deeppavlov_shavrina.pdf)
+
+### Dialog 2020 Round table
+[Russian SuperGLUE Release](https://github.com/TatianaShavrina/presentations/blob/master/dialog2020/RussianSuperGLUE.pdf)
+
+### AGI 2020
+[Russian SuperGLUE](https://github.com/TatianaShavrina/presentations/blob/master/AGI2020/AGI_SuperGLUE.pdf)
